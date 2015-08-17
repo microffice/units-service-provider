@@ -18,7 +18,7 @@
         "illuminate/events": "~5.0",
         "illuminate/filesystem": "~5.0",
         "vlucas/phpdotenv": "~1.0",
-        "microffice/core": "dev-master"
+        "microffice/core": "^0.1"
     },
     "require-dev": {
         "orchestra/testbench": "~3.0"
